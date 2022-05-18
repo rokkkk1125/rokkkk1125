@@ -1,6 +1,6 @@
 ### 어서오세요<br>
 <li>
-  <ul>hi</ul>
+  <ul>hi
 </li>
 <!--
 **rokkkk1125/rokkkk1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
