@@ -1,5 +1,5 @@
 ### 어서오세요<br>
-<li>🔭
+<li>🔭 공부중
 <!--
 **rokkkk1125/rokkkk1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
