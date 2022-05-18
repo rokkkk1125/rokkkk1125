@@ -1,5 +1,4 @@
 ### 어서오세요<br>
-<li>🔭 공부중<br>
 <div align=center>
 <p>
   <h4>기술 스택</h4>
