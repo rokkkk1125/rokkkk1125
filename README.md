@@ -1,5 +1,6 @@
 ### 어서오세요<br>
 <li>🔭 공부중<br>
+<div align=center>
 <p>
   <h4>기술 스택</h4>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -7,6 +8,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 </P>
+  </div>
 <!--
 **rokkkk1125/rokkkk1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
