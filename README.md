@@ -1,7 +1,8 @@
 ### 어서오세요<br>
 <li>🔭 공부중<br>
 <p>
-  <h4>기술 스택</h4> : <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+  <h4>기술 스택</h4>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
   
 </P>
 <!--
