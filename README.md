@@ -1,4 +1,4 @@
-### Hi there 👋
+### 프론트엔드 공부중,,, 👋
 
 <!--
 **rokkkk1125/rokkkk1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
