@@ -1,5 +1,6 @@
 ### 안녕하세요<br>
 <div align=center>
+  차근차근 완성되는대로 올리는 중입니다.
 <p>
   <h4>기술 스택</h4>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
